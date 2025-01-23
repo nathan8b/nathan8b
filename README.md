@@ -1,1 +1,1 @@
-Hi! I'm Nathan, and current sophomore studying Computer Science at Ohio University.
+Hi! I'm Nathan, a current sophomore studying Computer Science at Ohio University.
